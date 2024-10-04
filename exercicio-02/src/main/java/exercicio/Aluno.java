@@ -7,8 +7,8 @@ public class Aluno {
     private String endereco;
     
     
-    Aluno(int codigo, String nome) {
-        this.codigo = codigo;
-        this.nome = nome;
+    Aluno(int c, String n) {
+        this.codigo = c;
+        this.nome = n;
     }
 }
