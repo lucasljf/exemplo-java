@@ -8,4 +8,10 @@ public class Curso {
         this.nome = n;
         this.duracao = d;
     }
+
+    public String getNome() {
+        return this.nome;
+    }
+    
+    
 }
